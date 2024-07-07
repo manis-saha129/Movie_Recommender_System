@@ -3,3 +3,5 @@
 ![Screenshot (150)](https://github.com/manis-saha129/Movie_Recommender_System/assets/139264745/06d7305f-0985-4205-8b03-b0125d6100b5)
 ![Screenshot (151)](https://github.com/manis-saha129/Movie_Recommender_System/assets/139264745/17e0923a-c280-4abd-ad5b-5f65b69b0717)
 ![Screenshot (152)](https://github.com/manis-saha129/Movie_Recommender_System/assets/139264745/71c2f822-d548-4be8-99f9-9aef335c0c8a)
+
+streamlit run app.py
